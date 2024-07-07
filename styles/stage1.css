@@ -1,0 +1,36 @@
+.intro{
+    font-family: Arial;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+}
+.sparsha{
+    font-family:Georgia;
+    font-size: 26px;
+    text-align: center;
+    font-weight:bold;
+    font-style: italic;
+    color: gold;
+
+}
+.Watch-button
+{ 
+display: block;
+margin:auto;
+background-color:rgba(195, 130, 55, 0.596);
+color: black;
+border: none;
+height: 50px;
+width: 140px;
+border-radius: 9px;
+cursor: pointer;   
+margin-top: 2px;
+font-weight: bold;
+transition: opacity 0.15s;
+}
+
+.Watch-button:hover{
+box-shadow:  2px 2px 2px black;
+opacity: 0.7;
+}

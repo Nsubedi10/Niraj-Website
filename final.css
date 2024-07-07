@@ -1,0 +1,123 @@
+.PROFILE-PICTURE {
+    width: 100%;
+    object-fit: cover;
+  }
+  .centered {
+    color:#000000;
+font-family:'georgia';
+font-size: 33px;
+text-align: center;
+font-weight: bolder;
+font-style: italic;
+position: absolute;
+top: 15%;
+left: 50%;
+transform: translate(-50%, -50%);
+display: block;
+padding-top: 50px;
+  }
+  .sparsha{
+font-family:Georgia;
+font-size: 26px;
+text-align: center;
+font-weight:bold;
+font-style: italic;
+color: rgb(255, 0, 0);
+padding-top: 70px;
+  }
+
+.Watch-button
+{ 
+display: block;
+margin: auto;
+background-color:rgba(0, 0, 0, 0.856);
+color: white;
+border: none;
+height: 25px;
+width: 130px;
+border-radius: 15px;
+cursor: pointer;  
+font-weight: bold;
+transition: opacity 0.15s;
+text-decoration:none;
+
+
+
+}
+.Watch-button:hover{
+box-shadow:  2px 2px 2px rgba(191, 16, 16, 0.397);
+opacity: 1;
+}
+  .pic-youtube {
+    font-size: 45px;
+    width: 10px;
+  color: #e83232ea; 
+  transition: color 0.9s;
+  padding-right: 9px;
+
+  }
+  .pic-youtube :hover {
+    color: hsla(0, 98%, 51%, 0.919);
+    opacity: 0.5;
+  }
+  .pic-facebook {
+    font-size: 45px;
+    color: rgb(28, 60, 218);
+    transition: color 0.9s;
+    padding-right: 9px;
+
+  }
+  .pic-facebook :hover {
+    color: blue;
+    opacity: 0.5;
+  }
+  .pic-tiktok {
+    font-size: 45px;
+    color: rgba(0, 0, 0, 0.705);
+    transition: color 0.9s;
+    padding-right: 30px;
+  }
+  .pic-tiktok :hover {
+    color: rgb(0, 0, 0);
+    opacity: 0.5;
+  }
+  .icons {
+    padding: 20px;
+    text-align:end;
+    background-color: rgba(0, 0, 0, 0.301);
+  }
+  .pic-insta {
+    font-size: 40px;
+    color: rgba(238, 22, 43, 0.416);
+    transition: color 0.9s;
+    padding-right: 9px;
+  }
+  .pic-insta :hover{
+    color: rgb(253, 8, 8);
+    opacity: 0.5;
+  }
+  .contact {
+    font-weight: bold;
+    font-family: georgia;
+    font-size: 18px;
+    padding-top: 30px;
+    padding-right: 50px;
+   text-align:end;
+    background-color: #dc2b2b0d;
+    display:block;
+    margin: 0px
+  }
+  .copyright {
+    padding: 0%;
+    text-align: center;
+    font-size: 10px;
+    padding-bottom: 10px;
+  }
+.fa-spotify {
+padding-right: 10px;
+cursor: pointer;
+}
+.fa-spotify :hover{
+color: black;
+opacity: 0.5;
+}
