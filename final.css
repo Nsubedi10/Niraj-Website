@@ -121,3 +121,25 @@ cursor: pointer;
 color: black;
 opacity: 0.5;
 }
+
+
+@media screen and (max-width: 600px) {
+  .centered {
+    font-size: 24px;
+  }
+  .sparsha {
+    font-size: 18px;
+  }
+  .Watch-button {
+    height: 20px;
+    width: 100px;
+  }
+  .pic-youtube,
+  .pic-facebook,
+  .pic-tiktok,
+  .pic-insta {
+    font-size: 30px;
+  }
+  .contact {
+    font-size: 14px;
+  }
